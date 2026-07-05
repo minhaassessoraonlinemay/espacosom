@@ -156,19 +156,19 @@ Descrição:
 Aulas de guitarra e violão com foco em evolução real, criatividade e desenvolvimento musical, conduzidas por Rodrigo Moraes. O ensino trabalha teoria, prática e repertório por meio da Metodologia Triangular, buscando desenvolver musicalidade, técnica, improvisação, criatividade, percepção musical e autonomia artística.
 
 Preço:
-Observação: informação não consta no Planejamento Estratégico.
+Mensalidade de R$350,00.
 
 Forma de pagamento:
-Observação: informação não consta no Planejamento Estratégico.
+Pix à vista e cartão de crédito.
 
 Garantia:
-Observação: informação não consta no Planejamento Estratégico.
+Existe uma aula experimental.
 
 Bônus:
-Observação: informação não consta no Planejamento Estratégico.
+Não há bônus. Não mencionar bônus no site.
 
 Prazo da oferta:
-Observação: informação não consta no Planejamento Estratégico.
+Matrículas abertas. Restam 3 vagas.
 
 ---
 
@@ -189,7 +189,8 @@ O que está incluso:
 - aulas técnicas, práticas e criativas;
 - ensino de teoria, prática e repertório pela Metodologia Triangular;
 - desenvolvimento de musicalidade, técnica, improvisação, criatividade, percepção musical e autonomia artística;
-- condução por professor com domínio real do instrumento, experiência prática como músico, experiência didática, estudos em pedagogia, formação técnica e aperfeiçoamento constante.
+- condução por professor com domínio real do instrumento, experiência prática como músico, experiência didática, estudos em pedagogia, formação técnica e aperfeiçoamento constante;
+- materiais de apoio organizados e enviados pelo WhatsApp do aluno, como exercícios, sugestões de músicas, playlists para ouvir, tarefas e sugestão ou indicação de equipamentos.
 
 O que não está incluso:
 Observação: informação não consta no Planejamento Estratégico.
@@ -329,7 +330,7 @@ Onde está localizado?
 Observação: informação não consta no Planejamento Estratégico.
 
 Existe alguma restrição?
-Observação: informação não consta no Planejamento Estratégico.
+No momento, não há restrições visuais informadas.
 
 Diretrizes estratégicas de marca informadas:
 - arquétipo principal: O Sábio;
@@ -343,7 +344,11 @@ Diretrizes estratégicas de marca informadas:
 # 13. Referências
 
 Links de inspiração.
-Observação: links de inspiração não constam no Planejamento Estratégico.
+- https://kikoloureiro.com/guitaracademy/
+- https://musixe.com/planos
+- https://mozartmellocursos.com.br/
+- https://www.chamanapenta.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnHSaOzEDHtfPCutK_lZa10gyEEeTBHE0l72KM6tWLCZ0uAEMbynXTsPE0DlI_aem_9Qgyv23PKW1EuN4MUNUZPg
+- https://tally.so/r/ZjR6bV?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnhC7RpEk6ENDYAXBmLHG83qpfTjebPXJLp9P3StIatuz7LVyTEyihxK3KEl4_aem_BXImb3LTlCga5gByOG4yig
 
 Concorrentes.
 O Planejamento Estratégico menciona concorrentes de forma geral, sem nomes. Concorrentes são descritos como escolas ou profissionais com estrutura física forte, comunicação mais desenvolvida e presença institucional maior, mas que podem falhar em profundidade técnica, qualidade dos professores e desenvolvimento real do aluno.
@@ -394,11 +399,13 @@ Checklist.
 
 ☐ FAQ
 
-☐ Links importantes
+☑ Links importantes
 
-☐ Outros
+☑ Outros
 
-Observação: o Planejamento Estratégico informa que a landing page deve conter seção de depoimentos com feedbacks, evolução de alunos e vídeos, mas não confirma que esses materiais já foram recebidos.
+Materiais informados: materiais de apoio organizados e enviados no WhatsApp do aluno, como exercícios, sugestões de músicas, playlists para ouvir, tarefas e sugestão ou indicação de equipamentos.
+
+Observação: no momento não há logo e fotos. Esses materiais serão enviados para a pasta do projeto assim que estiverem disponíveis. O Planejamento Estratégico informa que a landing page deve conter seção de depoimentos com feedbacks, evolução de alunos e vídeos, mas não confirma que esses materiais já foram recebidos.
 
 ---
 
@@ -408,13 +415,13 @@ Marque tudo o que será utilizado.
 
 ## Marketing
 
-☐ Google Tag Manager
+☑ Google Tag Manager
 
-☐ Google Analytics
+☑ Google Analytics
 
-☐ Meta Pixel
+☑ Meta Pixel
 
-☐ Google Ads
+☑ Google Ads
 
 ☐ TikTok Pixel
 
@@ -422,7 +429,7 @@ Marque tudo o que será utilizado.
 
 ☐ Microsoft Clarity
 
-Observação: o Planejamento Estratégico menciona estratégia de tráfego pago e Google Meu Negócio, mas não especifica ferramentas de mensuração como GTM, GA4, Meta Pixel ou Clarity.
+Integrações confirmadas: Google Analytics, Google Tag Manager, Meta Pixel e Google Ads.
 
 ---
 
@@ -442,6 +449,10 @@ Observação: o Planejamento Estratégico menciona estratégia de tráfego pago 
 
 Outro:
 WhatsApp como canal principal de contato e conversão.
+
+Número confirmado: 5547996330890.
+
+Neste momento, a landing page não terá formulário.
 
 ---
 
@@ -480,6 +491,7 @@ Exemplos:
 - fortalecimento da autoridade digital de Rodrigo em guitarra e violão em Joinville;
 - percepção de competência, confiança, profundidade e evolução;
 - desempenho de campanhas com verba de R$500/mês focadas em reels, vídeos curtos e captação via WhatsApp.
+- acompanhamento de dados por Google Analytics, Google Tag Manager, Meta Pixel e Google Ads.
 
 Observação: metas numéricas, taxa de conversão esperada e indicadores técnicos de performance não constam no Planejamento Estratégico.
 
@@ -530,24 +542,18 @@ Perguntas estratégicas para o atendimento no WhatsApp:
 - Qual seu objetivo com a música?
 
 Pendências identificadas:
-- confirmar data de início;
-- confirmar prazo de entrega;
-- confirmar responsável pela execução do projeto;
-- confirmar preço, forma de pagamento, garantia, bônus e prazo da oferta;
-- confirmar materiais recebidos, especialmente logos, fotos, vídeos e depoimentos;
-- confirmar integrações de marketing, mensuração e formulário;
-- confirmar links de referência e concorrentes nomeados;
-- confirmar restrições visuais ou de identidade.
+- receber logo e fotos quando estiverem disponíveis;
+- confirmar se haverá vídeos e depoimentos para uso na landing page.
 
 ---
 
 # Aprovação
 
 Cliente:
-Espaço Som / Rodrigo Moraes
+Mayara
 
 Data:
-Observação: informação não consta no Planejamento Estratégico.
+
 
 Versão:
 1.0.0
