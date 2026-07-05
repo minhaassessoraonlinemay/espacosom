@@ -378,7 +378,7 @@ Sim. Briefing, copy, direção visual e configurações do projeto.
 
 Informações adicionais relacionadas ao projeto.
 
-Pendências técnicas antes do desenvolvimento/publicação:
+Pendências técnicas futuras para retomar antes da publicação ou encerramento:
 - definir tecnologia frontend e framework;
 - definir hospedagem;
 - confirmar domínio ou subdomínio;
@@ -387,6 +387,8 @@ Pendências técnicas antes do desenvolvimento/publicação:
 - confirmar se haverá vídeos e depoimentos;
 - preparar política de privacidade e banner de cookies/consentimento;
 - configurar todos os CTAs para WhatsApp: https://wa.me/5547996330890.
+
+Observação: estes pontos ainda não estão disponíveis no momento. Eles devem ser revisitados antes da publicação e obrigatoriamente antes de encerrar o projeto.
 
 ---
 

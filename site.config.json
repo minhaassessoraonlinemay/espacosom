@@ -1,0 +1,24 @@
+{
+  "projectName": "Landing Page Espaço Som",
+  "whatsappUrl": "https://wa.me/5547996330890",
+  "privacyPolicyUrl": "",
+  "tracking": {
+    "googleTagManagerId": "",
+    "googleAnalyticsId": "",
+    "metaPixelId": "",
+    "googleAdsId": ""
+  },
+  "seo": {
+    "title": "Aulas de Guitarra e Violão em Joinville | Espaço Som",
+    "description": "Aprenda guitarra e violão com foco em evolução real, criatividade e desenvolvimento musical. Agende uma aula experimental no Espaço Som em Joinville.",
+    "canonical": "",
+    "openGraphImage": ""
+  },
+  "pending": [
+    "Definir dominio/canonical",
+    "Informar IDs de GTM, GA4, Meta Pixel e Google Ads",
+    "Enviar logo, favicon e fotos oficiais",
+    "Confirmar videos e depoimentos",
+    "Preparar URL final da Politica de Privacidade"
+  ]
+}

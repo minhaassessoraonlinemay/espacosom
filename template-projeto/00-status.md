@@ -71,7 +71,7 @@ Selecione apenas um estado.
 # Próxima Ação
 
 Descreva qual é exatamente o próximo passo do projeto.
-Definir stack, hospedagem, domínio e IDs das integrações para iniciar o desenvolvimento da landing page.
+Retomar pendências técnicas antes da publicação/encerramento: stack, hospedagem, domínio, IDs das integrações, política de privacidade/cookies e materiais visuais.
 
 Responsável:
 Mayara
@@ -113,7 +113,7 @@ Caso não exista, escrever:
 
 "Nenhum bloqueio."
 
-Nenhum bloqueio crítico para iniciar o desenvolvimento com placeholders. Pendências técnicas e operacionais: definir stack, hospedagem, domínio, IDs das integrações, política de privacidade/cookies, receber logo e fotos quando estiverem disponíveis e confirmar se haverá vídeos/depoimentos.
+Nenhum bloqueio crítico para manter o projeto planejado. Pendências futuras a retomar antes da publicação ou encerramento: definir stack, hospedagem, domínio, IDs das integrações, política de privacidade/cookies, receber logo e fotos quando estiverem disponíveis e confirmar se haverá vídeos/depoimentos.
 
 ---
 
@@ -254,7 +254,16 @@ Descrição:
 # Observações Gerais
 
 Informações adicionais relevantes para o projeto.
-Projeto de landing page para captar contatos no WhatsApp e agendar aula experimental. WhatsApp confirmado: 5547996330890. Neste momento não haverá formulário. Não há logo e fotos disponíveis ainda. Próximas decisões: stack, hospedagem, domínio, IDs de tracking, política de privacidade e banner de cookies.
+Projeto de landing page para captar contatos no WhatsApp e agendar aula experimental. WhatsApp confirmado: 5547996330890. Neste momento não haverá formulário. Não há logo e fotos disponíveis ainda.
+
+Pendências futuras registradas para retomar antes da publicação ou encerramento:
+- definir stack/framework;
+- definir hospedagem;
+- confirmar domínio ou subdomínio;
+- informar IDs de Google Tag Manager, Google Analytics 4, Meta Pixel e Google Ads;
+- preparar política de privacidade e banner de cookies/consentimento;
+- receber logo, favicon e fotos quando estiverem disponíveis;
+- confirmar se haverá vídeos e depoimentos.
 
 ---
 
