@@ -52,11 +52,11 @@ Selecione apenas um estado.
 
 ☐ Em Planejamento
 
-☑ Pronto para Desenvolvimento
+☐ Pronto para Desenvolvimento
 
 ☐ Em Desenvolvimento
 
-☐ Em Revisão
+☑ Em Revisão
 
 ☐ Pronto para Publicação
 
@@ -71,7 +71,7 @@ Selecione apenas um estado.
 # Próxima Ação
 
 Descreva qual é exatamente o próximo passo do projeto.
-Retomar pendências técnicas antes da publicação/encerramento: stack, hospedagem, domínio, IDs das integrações, política de privacidade/cookies e materiais visuais.
+Revisar a landing page implementada localmente e, antes da publicação, retomar hospedagem, domínio, IDs das integrações, política de privacidade/cookies e materiais visuais.
 
 Responsável:
 Mayara
@@ -113,7 +113,7 @@ Caso não exista, escrever:
 
 "Nenhum bloqueio."
 
-Nenhum bloqueio crítico para manter o projeto planejado. Pendências futuras a retomar antes da publicação ou encerramento: definir stack, hospedagem, domínio, IDs das integrações, política de privacidade/cookies, receber logo e fotos quando estiverem disponíveis e confirmar se haverá vídeos/depoimentos.
+Nenhum bloqueio crítico para revisar a landing page localmente. Pendências futuras a retomar antes da publicação ou encerramento: definir hospedagem, domínio, IDs das integrações, política de privacidade/cookies, receber logo e fotos quando estiverem disponíveis e confirmar se haverá vídeos/depoimentos.
 
 ---
 
@@ -130,7 +130,7 @@ Situação dos documentos do projeto.
 ☑ Configurações
 
 Observações:
-Briefing, copy, direção visual e configurações preenchidos. Projeto pronto para avançar ao desenvolvimento após definição das pendências técnicas.
+Briefing, copy, direção visual, configurações e implementação inicial preenchidos. Projeto segue para revisão local da landing page.
 
 ---
 
@@ -138,14 +138,14 @@ Briefing, copy, direção visual e configurações preenchidos. Projeto pronto p
 
 Situação atual.
 
-☑ Não iniciado
+☐ Não iniciado
 
 ☐ Em andamento
 
-☐ Concluído
+☑ Concluído
 
 Observações:
-Desenvolvimento ainda não iniciado. Projeto pronto para avançar após definição de stack, hospedagem, domínio e IDs de integração.
+Landing page estática implementada com HTML, CSS e JavaScript puro. Projeto segue para revisão local antes de publicação.
 
 ---
 
@@ -236,6 +236,17 @@ Configurações do projeto preenchidas. Projeto marcado como pronto para desenvo
 ---
 
 ## Data:
+05/07/2026
+
+Responsável:
+Mayara
+
+Descrição:
+Landing page estática implementada com estrutura organizada, SEO, placeholders visuais, banner de cookies e rastreamento preparado sem IDs fictícios.
+
+---
+
+## Data:
 
 Responsável:
 
@@ -257,7 +268,6 @@ Informações adicionais relevantes para o projeto.
 Projeto de landing page para captar contatos no WhatsApp e agendar aula experimental. WhatsApp confirmado: 5547996330890. Neste momento não haverá formulário. Não há logo e fotos disponíveis ainda.
 
 Pendências futuras registradas para retomar antes da publicação ou encerramento:
-- definir stack/framework;
 - definir hospedagem;
 - confirmar domínio ou subdomínio;
 - informar IDs de Google Tag Manager, Google Analytics 4, Meta Pixel e Google Ads;

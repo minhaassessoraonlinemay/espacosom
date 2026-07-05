@@ -57,7 +57,7 @@ Observação: ambiente atual do projeto é planejamento/desenvolvimento. Homolog
 Quais tecnologias serão utilizadas?
 
 Frontend:
-Observação: tecnologia frontend ainda não definida.
+HTML semântico, CSS moderno e JavaScript puro.
 
 Backend:
 Não previsto neste momento.
@@ -66,7 +66,7 @@ Banco de Dados:
 Não previsto neste momento.
 
 Framework:
-Observação: framework ainda não definido.
+Não utilizado. Projeto estático sem framework, conforme aprovado para priorizar simplicidade, performance e facilidade de manutenção.
 
 Hospedagem:
 Observação: hospedagem ainda não definida.
@@ -379,7 +379,6 @@ Sim. Briefing, copy, direção visual e configurações do projeto.
 Informações adicionais relacionadas ao projeto.
 
 Pendências técnicas futuras para retomar antes da publicação ou encerramento:
-- definir tecnologia frontend e framework;
 - definir hospedagem;
 - confirmar domínio ou subdomínio;
 - informar IDs do Google Tag Manager, Google Analytics 4, Meta Pixel e Google Ads;
